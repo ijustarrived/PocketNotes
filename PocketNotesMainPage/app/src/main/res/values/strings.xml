@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PocketNotesMainPage</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="task_title">Title</string>
+    <string name="task_description">Description</string>
+    <string name="reminder_msg">Message</string>
+    <string name="alarm">Alarm</string>
+    <string name="reminder">Reminder</string>
+    <string name="activate">On</string>
+
+
+</resources>
